@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WhoAmI-FK
-- 🌱 I’m currently learning Laravel/Angular
+- 🌱 I’m currently learning Laravel/Angular/C#
 - 💞️ I’m open to collaborate and expand my co-working experience
 - 📫 How to reach me? Email: faiskaswork@gmail.com
 - 👨‍💻 Main languages: C++, Js, PHP
