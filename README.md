@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **pet-projects and in company**
 
-- 🌱 I’m currently learning **Game/Web Development, AI, QT**
+- 🌱 I’m currently learning **Game/Web Development, AI, QT, CLOUD**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
